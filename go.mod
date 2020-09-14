@@ -1,4 +1,4 @@
-module github.com/namedotcom/go/v4
+module github.com/coolaj86/go-namedotcom/v4
 
 go 1.14
 
